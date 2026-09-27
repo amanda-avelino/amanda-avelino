@@ -1,19 +1,31 @@
 # Amanda Cristina Avelino
 
-Physics Engineering student at UFLA, interested in both theoretical and experimental physics.
+**Physics Engineering student at UFLA**
 
-### Interests
+I am interested in both theoretical and experimental physics, exploring different areas of physics and engineering through academic research and hands-on projects.
+
+###  Interests
 
 - Theoretical Physics
+- Astronomy & Astrophysics
 - Experimental Physics & Instrumentation
-- Scientific Computing
-- Data Analysis
-- Engineering
+- Scientific Computing & Data Analysis
+- Engineering & Technology
 
-### Research & Projects
+###  Research & Projects
 
-Currently exploring research and engineering through academic projects in cosmology, geomagnetism and aerospace engineering.
+**Astronomy**  
+Development of a star-tracking system combining celestial coordinates, electronics, programming and mechanical components.
 
-### Tools
+**Cosmology**  
+Research involving cosmological parameter inference and CMB data analysis.
 
-Python · C++ · LaTeX · Scientific Computing
+**Geomagnetism**  
+Analysis of geomagnetic observations and real-world data.
+
+**Aerospace Engineering**  
+Engineering projects involving propulsion, aerodynamics and aerospace systems through the VEGA student team.
+
+###  Tools
+
+Python · Git  · LaTeX · Arduino · ESP32 · Scientific Computing
